@@ -35,7 +35,7 @@
 		}
 		
 		.box1 {
-			background-color: #eee;
+			background-color: #e4ffd8;
 			width: 30%;
 			position: relative;
 			padding: 30px 10px 10px 10px;
@@ -45,7 +45,7 @@
 		}
 		
 		.box2 {
-			background-color: #eee;
+			background-color:#d8d9ff;
 			width: 30%;
 			margin: 0px auto;
 			position: relative;
@@ -54,7 +54,7 @@
 		}
 		
 		.box3 {
-			background-color: #eee;
+			background-color: #d3ffff;
 			position: absolute;
 			width: 30%;
 			top: 0px;
@@ -132,7 +132,7 @@
 			}
 
 			.box3 {
-				width: 95%;
+				width: 97%;
 				position: relative;
 				margin-top: 20px;
 				padding: 30px 10px 10px;
